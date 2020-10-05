@@ -1,4 +1,4 @@
-package com.khien.systemtime;
+package com.khien.system_time;
 import java.util.Date;
 
 public class SystemTime {

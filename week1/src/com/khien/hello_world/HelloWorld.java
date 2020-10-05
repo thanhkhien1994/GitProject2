@@ -1,4 +1,4 @@
-package com.khien.helloworld;
+package com.khien.hello_world;
 
 public class HelloWorld {
       public static void main(String[] args) {
