@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e55d325c-6b71-4326-8cc0-ec82fdc733d9" name="Default Changelist" comment="" />
+    <list default="true" id="e55d325c-6b71-4326-8cc0-ec82fdc733d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week1/Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/add_value_arr/AddElementArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/array_aggregation/ArrayAggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/dao_nguoc_array/DaoNguocMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/delete_index_of_array/DeleteIndexArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/doC_doF/DoCdoF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/max_arr2/MaxArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/max_array/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/khien/com/GTLN_Array/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/Array/src/khien/com/seach_students_list/ListStudentSeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/com/khien/money_bank/MoneyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/com/khien/number_leep/NumberLeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/SNT/SoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/sao_menu/StarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/sao_menu_loop/LoopStarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/sohoanhao/SoHoanHao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/uoc_chung_lon_nhat/UocChungLonNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/introductiontojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/introductiontojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/week1/introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +43,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -40,15 +65,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week1/Array" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -89,9 +115,9 @@
     <option name="totallyTimeSpent" value="7657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="6" />
+    <frame x="-1" y="-1" width="1368" height="730" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26969698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27424243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

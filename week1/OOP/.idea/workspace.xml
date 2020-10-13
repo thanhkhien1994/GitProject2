@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35b4b810-87f1-4c59-9b3f-41a19fe42969" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/add_value_arr/AddElementArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/array_aggregation/ArrayAggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/dao_nguoc_array/DaoNguocMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/delete_index_of_array/DeleteIndexArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/doC_doF/DoCdoF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/max_arr2/MaxArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/max_array/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/min_arr/MinArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/people/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/com/khien/people/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/khien/com/GTLN_Array/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array/src/khien/com/seach_students_list/ListStudentSeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/fan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/quadratice_quation/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/quadratice_quation/com/khien/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/rectange/Ex14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/rectange/Rectange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/com/khien/money_bank/MoneyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/com/khien/number_leep/NumberLeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/khien/com/SNT/SoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/khien/com/sao_menu/StarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/khien/com/sao_menu_loop/LoopStarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/khien/com/sohoanhao/SoHoanHao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fortojava/for_while/src/khien/com/uoc_chung_lon_nhat/UocChungLonNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introductiontojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../introductiontojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/../introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/../introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/khien/rectange/Rectange.java" />
+        <option value="$PROJECT_DIR$/src/com/khien/rectange/Ex14_1.java" />
+        <option value="$PROJECT_DIR$/src/com/khien/quadratice_quation/com/khien/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/khien/quadratice_quation/QuadraticEquation.java" />
+        <option value="$PROJECT_DIR$/src/com/khien/fan/Fan.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="141" />
+    <option name="y" value="11" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="khien" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="khien" type="462c0819:PsiDirectoryNode" />
+              <item name="fan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="khien" type="462c0819:PsiDirectoryNode" />
+              <item name="quadratice_quation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="khien" type="462c0819:PsiDirectoryNode" />
+              <item name="quadratice_quation" type="462c0819:PsiDirectoryNode" />
+              <item name="khien" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Fan">
+    <configuration name="Ex14_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khien.rectange.Ex14_1" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khien.rectange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khien.fan.Fan" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khien.fan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khien.quadratice_quation.com.khien.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khien.quadratice_quation.com.khien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ex14_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b4b810-87f1-4c59-9b3f-41a19fe42969" name="Default Changelist" comment="" />
+      <created>1602498318181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602498318181</updated>
+      <workItem from="1602498322017" duration="626000" />
+      <workItem from="1602503189319" duration="8678000" />
+      <workItem from="1602562047400" duration="7136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16440000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12822458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3496732" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/khien/rectange/Ex14_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/khien/rectange/Rectange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/khien/quadratice_quation/QuadraticEquation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/khien/quadratice_quation/com/khien/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5076">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/khien/fan/Fan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

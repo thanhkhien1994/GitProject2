@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d1e7f7-1e08-4c01-9391-4f78b070ed50" name="Default Changelist" comment="">
+    <list default="true" id="c924c469-746a-494f-9b19-6e714f01f2c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/add_value_arr/AddElementArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/array_aggregation/ArrayAggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/dao_nguoc_array/DaoNguocMang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/delete_index_of_array/DeleteIndexArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/doC_doF/DoCdoF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/max_arr2/MaxArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/max_array/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/min_arr/MinArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/people/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/com/khien/people/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/khien/com/GTLN_Array/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/src/khien/com/seach_students_list/ListStudentSeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/com/khien/money_bank/MoneyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/com/khien/number_leep/NumberLeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/khien/com/SNT/SoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/khien/com/sao_menu/StarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/khien/com/sao_menu_loop/LoopStarMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/khien/com/sohoanhao/SoHoanHao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fortojava/for_while/src/khien/com/uoc_chung_lon_nhat/UocChungLonNhat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/introductiontojava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/META-INF/introductiontojava.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/day_of_month/DayOfMonth.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/hello_world/HelloWorld.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/ibm/Ibm.class" afterDir="false" />
@@ -19,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/system_time/SystemTime.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/variable/Variable.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/year_leap/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/day_of_month/DayOfMonth.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/hello_world/HelloWorld.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/ibm/Ibm.java" afterDir="false" />
@@ -29,33 +50,13 @@
       <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/system_time/SystemTime.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/variable/Variable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/year_leap/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/introductiontojava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/META-INF/introductiontojava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/day_of_month/DayOfMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/hello_world/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/ibm/Ibm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/input_name_show_name/DisplayName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/linear_equation_resolver/LinearEquationResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/number_to_text/NumberToText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/rectangle_program/RectangleProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/system_time/SystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/variable/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/introductiontojava/com/khien/year_leap/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/day_of_month/DayOfMonth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/hello_world/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/ibm/Ibm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/input_name_show_name/DisplayName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/linear_equation_resolver/LinearEquationResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/number_to_text/NumberToText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/rectangle_program/RectangleProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/system_time/SystemTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/variable/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/year_leap/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductiontojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/introductiontojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,44 +65,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/khien/helloworld/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/systemtime/SystemTime.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/variable/Variable.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/rectangle_program/RectangleProgram.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/linear_equation_resolver/LinearEquationResolver.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/day_of_month/DayOfMonth.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/year_leap/LeapYear.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/ibn/Ibm.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/ibm/Ibm.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/input_name_show_name/DisplayName.java" />
-        <option value="$PROJECT_DIR$/src/com/khien/number_to_text/NumberToText.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="y" value="18" />
-    <option name="width" value="1280" />
-    <option name="height" value="514" />
+    <option name="x" value="340" />
+    <option name="y" value="85" />
+    <option name="width" value="677" />
+    <option name="height" value="487" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -109,22 +80,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/introductiontojava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -139,238 +108,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberToText">
-    <configuration name="DayOfMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.day_of_month.DayOfMonth" />
-      <module name="introductiontojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khien.day_of_month.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DisplayName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.input_name_show_name.DisplayName" />
-      <module name="introductiontojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khien.input_name_show_name.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ibm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.ibm.Ibm" />
-      <module name="introductiontojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khien.ibm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.year_leap.LeapYear" />
-      <module name="introductiontojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khien.year_leap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.number_to_text.NumberToText" />
-      <module name="introductiontojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khien.number_to_text.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.NumberToText" />
-        <item itemvalue="Application.DisplayName" />
-        <item itemvalue="Application.Ibm" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.DayOfMonth" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9d1e7f7-1e08-4c01-9391-4f78b070ed50" name="Default Changelist" comment="" />
-      <created>1601866627765</created>
+      <changelist id="c924c469-746a-494f-9b19-6e714f01f2c1" name="Default Changelist" comment="" />
+      <created>1602497992932</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601866627765</updated>
-      <workItem from="1601866629258" duration="1714000" />
-      <workItem from="1601872466013" duration="20097000" />
-      <workItem from="1601896339907" duration="129000" />
+      <updated>1602497992932</updated>
+      <workItem from="1602498001863" duration="316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21940000" />
+    <option name="totallyTimeSpent" value="316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25378788" />
-      <window_info id="Learn" order="6" show_stripe_button="false" weight="0.32954547" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12371889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30842608" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/khien/variable/Variable.java</url>
-          <line>2</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/introductiontojava$LinearEquationResolver.ic" NAME="LinearEquationResolver Coverage Results" MODIFIED="1601878570798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.khien.linear_equation_resolver.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/khien/hello_world/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/system_time/SystemTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/variable/Variable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/rectangle_program/RectangleProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/linear_equation_resolver/LinearEquationResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/year_leap/LeapYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/day_of_month/DayOfMonth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Scanner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="404" selection-start-line="404" selection-end-line="404" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/ibm/Ibm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/input_name_show_name/DisplayName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/khien/number_to_text/NumberToText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -421,7 +211,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>introductiontojava</last-edited>
+          <last-edited>OOP</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
