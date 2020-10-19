@@ -1,16 +1,15 @@
 package com.khien.he_object_hinh_hoc;
+public class Circle extends Shape {
 
-public class Circle extends Shape{
     private double radius = 1.0;
 
-    public Circle(){
+    public Circle() { }
 
-    }
-
-    public Circle(double radius){
+    public Circle(double radius) {
         this.radius = radius;
     }
-    public Circle(double radius, String color, boolean filled){
+
+    public Circle(double radius, String color, boolean filled) {
         super(color, filled);
         this.radius = radius;
     }
@@ -23,15 +22,16 @@ public class Circle extends Shape{
         this.radius = radius;
     }
 
-    public double getArea(){
-        return radius*radius*Math.PI;
-    }
-    public double getPerimeter(){
-        return 2*radius*Math.PI;
+    public double getArea() {
+        return radius * radius * Math.PI;
     }
 
-    @Override
+    public double getPerimeter() {
+        return 2 * radius * Math.PI;
+    }
+
+    @Override // ghi đè
     public String toString() {
-        return "Hinh tron co ban kinh = "+getRadius()+" va ke thua thang cha "+super.toString();
+        return "Hình tròn có bán kính là = " + getRadius() + " đó là lớp con của " + super.toString();
     }
 }

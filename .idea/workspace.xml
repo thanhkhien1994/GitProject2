@@ -2,37 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e55d325c-6b71-4326-8cc0-ec82fdc733d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/add_value_arr/AddElementArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/array_aggregation/ArrayAggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/dao_nguoc_array/DaoNguocMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/delete_index_of_array/DeleteIndexArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/doC_doF/DoCdoF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/max_arr2/MaxArr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/com/khien/max_array/ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/khien/com/GTLN_Array/ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/Array/src/khien/com/seach_students_list/ListStudentSeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/com/khien/money_bank/MoneyBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/com/khien/number_leep/NumberLeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/SNT/SoNguyenTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/sao_menu/StarMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/sao_menu_loop/LoopStarMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/sohoanhao/SoHoanHao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/fortojava/for_while/src/khien/com/uoc_chung_lon_nhat/UocChungLonNhat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/introductiontojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/introductiontojava/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/week1/introductiontojava/out/production/introductiontojava/com/khien/currency_money/CurrencyMoney.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/introductiontojava/src/com/khien/currency_money/CurrencyMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/ke_thua/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/ke_thua/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Shape.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -44,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -59,40 +50,25 @@
     <option name="width" value="1280" />
     <option name="height" value="514" />
   </component>
+  <component name="ProjectId" id="1ivJlLmQtJEBb3ChFdPCgnydEqb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week1/Array" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/week2/ke_thua" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,48 +84,20 @@
       <workItem from="1601826606784" duration="2985000" />
       <workItem from="1601859103224" duration="3057000" />
       <workItem from="1601864857957" duration="22000" />
+      <workItem from="1602782298754" duration="37000" />
+      <workItem from="1602849128533" duration="12000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7657000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-1" y="-1" width="1368" height="730" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27424243" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3290938" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1602849138455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602849138455" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602782342036" />
   </component>
   <component name="masterDetails">
     <states>

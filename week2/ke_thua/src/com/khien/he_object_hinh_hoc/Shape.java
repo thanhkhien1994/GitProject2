@@ -1,10 +1,19 @@
 package com.khien.he_object_hinh_hoc;
 
-public class Shape   {
+//Lớp Shape
+public class Shape {
+
     private String color;
     private boolean filled;
+    public static void main(String[] args) {
+        Shape shape = new Shape();
+        System.out.println(shape);
 
-    public Shape(){
+        shape = new Shape("màu xanh", true);
+        System.out.println(shape);
+    }
+
+    public Shape() {
 
     }
 
@@ -14,7 +23,7 @@ public class Shape   {
     }
 
     public String getColor() {
-        return color;
+        return this.color;
     }
 
     public void setColor(String color) {
@@ -29,9 +38,9 @@ public class Shape   {
         this.filled = filled;
     }
 
-    @Override
+    //@Override
     public String toString() {
-        return "A Shape width color of " + getColor() + ", filled=" + isFilled();
+        return "Màu sắc " + getColor() + ", Tô bên trong = " + isFilled();
     }
 
 }
