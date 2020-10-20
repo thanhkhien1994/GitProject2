@@ -20,17 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2fa5727-ab31-4f54-949a-c4df5cd88b63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/point2d_point3d/Point2dTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/point2d_point3d/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/khien/point2d_point3d/Point3dTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ke_thua/com/khien/he_object_hinh_hoc/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ke_thua/com/khien/he_object_hinh_hoc/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ke_thua/com/khien/he_object_hinh_hoc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ke_thua/com/khien/he_object_hinh_hoc/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ke_thua/com/khien/he_object_hinh_hoc/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ke_thua/com/khien/he_object_hinh_hoc/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/khien/he_object_hinh_hoc/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +77,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.CylinderTest">
+  <component name="RunManager" selected="Application.Point2dTest">
     <configuration name="CircleTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.khien.cylindervolumecalculator.CircleTest" />
       <module name="ke_thua" />
@@ -129,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.he_object_hinh_hoc.RectangleTest" />
+    <configuration name="Point2dTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khien.point2d_point3d.Point2dTest" />
       <module name="ke_thua" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khien.he_object_hinh_hoc.*" />
+          <option name="PATTERN" value="com.khien.point2d_point3d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,26 +136,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.khien.he_object_hinh_hoc.SquareTest" />
+    <configuration name="Point3dTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khien.point2d_point3d.Point3dTest" />
       <module name="ke_thua" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khien.he_object_hinh_hoc.*" />
+          <option name="PATTERN" value="com.khien.point2d_point3d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point2dTest" />
+        <item itemvalue="Application.Point3dTest" />
         <item itemvalue="Application.CylinderTest" />
         <item itemvalue="Application.CircleTest (1)" />
         <item itemvalue="Application.CircleTest" />
-        <item itemvalue="Application.SquareTest" />
-        <item itemvalue="Application.RectangleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +203,8 @@
       <workItem from="1603113718551" duration="344000" />
       <workItem from="1603115814574" duration="26000" />
       <workItem from="1603115908943" duration="7000" />
-      <workItem from="1603117247507" duration="598000" />
+      <workItem from="1603117247507" duration="3643000" />
+      <workItem from="1603161378513" duration="4656000" />
     </task>
     <servers />
   </component>
@@ -222,10 +228,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1602782383059" />
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1603102966450">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1603165225005">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603102966450" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603124490248" />
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1603165225005" />
     <state x="528" y="87" key="#com.intellij.ide.util.MemberChooser/62.0.1304.768@62.0.1304.768" timestamp="1603099350740" />
     <state x="578" y="145" key="FileChooserDialogImpl" timestamp="1603040864800">
       <screen x="62" y="0" width="1304" height="768" />
@@ -233,59 +240,64 @@
     <state x="541" y="137" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602848843581" />
     <state x="541" y="139" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602831738494" />
     <state x="578" y="145" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1603040864800" />
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1603113690898">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1275" height="234" key="GridCell.Tab.0.bottom" timestamp="1603166600259">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1261" height="178" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1603042348391" />
     <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603113690898" />
-    <state width="637" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602935702307" />
+    <state width="1275" height="234" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603166600259" />
     <state width="1261" height="175" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1603040945034" />
     <state width="1235" height="176" key="GridCell.Tab.0.bottom/88.0.1278.768@88.0.1278.768" timestamp="1603102208907" />
-    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1603113690898">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1275" height="234" key="GridCell.Tab.0.center" timestamp="1603166600259">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1261" height="178" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1603042348391" />
     <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603113690898" />
-    <state width="637" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602935702307" />
+    <state width="1275" height="234" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1603166600259" />
     <state width="1261" height="175" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1603040945033" />
     <state width="1235" height="176" key="GridCell.Tab.0.center/88.0.1278.768@88.0.1278.768" timestamp="1603102208907" />
-    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1603113690897">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1275" height="234" key="GridCell.Tab.0.left" timestamp="1603166600259">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1261" height="178" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1603042348390" />
     <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603113690897" />
-    <state width="637" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602935702307" />
+    <state width="1275" height="234" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1603166600259" />
     <state width="1261" height="175" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1603040945033" />
     <state width="1235" height="176" key="GridCell.Tab.0.left/88.0.1278.768@88.0.1278.768" timestamp="1603102208907" />
-    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1603113690898">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1275" height="234" key="GridCell.Tab.0.right" timestamp="1603166600259">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1261" height="178" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1603042348391" />
     <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603113690898" />
-    <state width="637" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602935702307" />
+    <state width="1275" height="234" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1603166600259" />
     <state width="1261" height="175" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1603040945034" />
     <state width="1235" height="176" key="GridCell.Tab.0.right/88.0.1278.768@88.0.1278.768" timestamp="1603102208907" />
-    <state x="61" y="17" key="SettingsEditor" timestamp="1603096128522">
+    <state x="61" y="17" key="SettingsEditor" timestamp="1603123838526">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="58" y="28" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1603041572140" />
-    <state x="61" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603096128522" />
+    <state x="61" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603123838526" />
     <state x="61" y="27" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602831846060" />
     <state x="120" y="28" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1603040920119" />
-    <state x="261" y="137" width="651" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1603096127374">
+    <state x="61" y="0" key="new project wizard" timestamp="1603124120747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="61" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603124120747" />
+    <state x="261" y="137" width="651" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1603123836874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="249" y="144" width="621" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1304.768@0.0.1304.768" timestamp="1603041570278" />
-    <state x="261" y="137" width="651" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1603096127374" />
+    <state x="261" y="137" width="651" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1603123836874" />
     <state x="261" y="138" width="621" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.738@0.0.1366.738" timestamp="1602831784051" />
     <state x="311" y="144" width="621" height="295" key="org.intellij.images.editor.actions.BackgroundImageDialog/62.0.1304.768@62.0.1304.768" timestamp="1603040919284" />
     <state x="526" y="121" key="refactoring.ChangeSignatureDialog" timestamp="1603079138280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="526" y="121" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1603079138280" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603081902008">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="346" y="50" width="672" height="688" key="search.everywhere.popup" timestamp="1603166267919">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603081902008" />
+    <state x="346" y="50" width="672" height="688" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1603166267919" />
   </component>
 </project>
