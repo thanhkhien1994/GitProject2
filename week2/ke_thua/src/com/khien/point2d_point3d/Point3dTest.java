@@ -7,7 +7,4 @@ public class Point3dTest {
         point3D.setXYZ(10,9,0);
         System.out.println(point3D);
     }
-
-
-
 }
