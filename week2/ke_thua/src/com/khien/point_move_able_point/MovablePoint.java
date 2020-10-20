@@ -1,4 +1,4 @@
-package com.khien.com.khien.point_move_able_point;
+package com.khien.point_move_able_point;
 
 public class MovablePoint extends Point {
     private float xSpeed;
