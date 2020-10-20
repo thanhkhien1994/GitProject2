@@ -1,175 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e55d325c-6b71-4326-8cc0-ec82fdc733d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week2/ke_thua/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/ke_thua/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Rectangle.java" afterDir="false" />
+    <list default="true" id="c43aa9aa-18c6-434d-b774-7996bab81b72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week2/ke_thua/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/out/production/ke_thua/com/khien/he_object_hinh_hoc/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/ke_thua/src/com/khien/he_object_hinh_hoc/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/file/file.iml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="111" />
-    <option name="y" value="-1" />
-    <option name="width" value="1280" />
-    <option name="height" value="514" />
-  </component>
-  <component name="ProjectId" id="1ivJlLmQtJEBb3ChFdPCgnydEqb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1j8KxsaI1qTArPsunhfbXRXhWbb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/week2/ke_thua" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e55d325c-6b71-4326-8cc0-ec82fdc733d9" name="Default Changelist" comment="" />
-      <created>1601813435488</created>
+      <changelist id="c43aa9aa-18c6-434d-b774-7996bab81b72" name="Default Changelist" comment="" />
+      <created>1603180528928</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601813435488</updated>
-      <workItem from="1601813442930" duration="1073000" />
-      <workItem from="1601825978525" duration="520000" />
-      <workItem from="1601826606784" duration="2985000" />
-      <workItem from="1601859103224" duration="3057000" />
-      <workItem from="1601864857957" duration="22000" />
-      <workItem from="1602782298754" duration="37000" />
-      <workItem from="1602849128533" duration="12000" />
+      <updated>1603180528928</updated>
+      <workItem from="1603180530275" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1602849138455">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="462" y="110" key="FileChooserDialogImpl" timestamp="1603180588376">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602849138455" />
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602782342036" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>file</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="462" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603180588376" />
+    <state x="65" y="0" key="new project wizard" timestamp="1603180738451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1603180738451" />
   </component>
 </project>
