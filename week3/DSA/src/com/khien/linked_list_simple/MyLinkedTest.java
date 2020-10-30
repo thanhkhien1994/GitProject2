@@ -1,7 +1,5 @@
 package com.khien.linked_list_simple;
 
-import com.khien.list_simple.MyList;
-
 public class MyLinkedTest {
     public static void main(String[] args) {
         MyLinkedList myLinkedList = new MyLinkedList(123);
